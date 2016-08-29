@@ -1,3 +1,4 @@
-Test file for GIT Course.
+#Test file for GIT Course.
+##Subtitle
 
-some new bla bla
+Changed the original text.
